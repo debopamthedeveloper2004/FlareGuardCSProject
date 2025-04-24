@@ -26,3 +26,4 @@ If you see an error that the Flask module cannot be found, make sure you've run 
 
 "# FlareGuardCSProject" 
 "# WildfirePredictorProject" 
+"# WildfirePredictorProject" 
